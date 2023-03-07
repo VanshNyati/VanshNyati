@@ -1,10 +1,6 @@
 ## Hey, I am Vansh Nyati! 
-</br>
 I'm currently pursuing Information Technology from Manipal Institute of Technology
-</br>
-
-
-
+</br> </br> </br>
 
  <div>
   <a href="https://github.com/eagrundy">
